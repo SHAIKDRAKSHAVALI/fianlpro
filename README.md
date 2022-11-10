@@ -10,11 +10,11 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : Foodie
+Project Title : Cooking-Restaurents
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Every One Good Visit Best Restaurants Near By Your Location.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Best Restaurants Food Taken Wood Leads us to Good Health.
 
 Primary Azure Technology : Static Web Apps, App Service
 
