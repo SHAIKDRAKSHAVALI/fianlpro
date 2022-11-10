@@ -1,4 +1,7 @@
 ## finalpro:Future Ready Talent Project By Shaik Drakshavali
+
+Desc: Cooking, cookery, or culinary arts is the art, science and craft of using heat to prepare food for consumption. Cooking techniques and ingredients vary widely, from grilling food over an open fire to using electric stoves, to baking in various types of ovens, reflecting local conditions.
+
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
 Web Technologies used: HTML, CSS, JS.
